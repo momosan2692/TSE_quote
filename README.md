@@ -5,3 +5,4 @@
 ####   One sample of this application is Tai-stock API to get real-time quoting. There is one server
    
    
+![Picture test](https://github.com/momosan2692/TSE_quote/blob/[branch]/image.jpg?raw=true)
